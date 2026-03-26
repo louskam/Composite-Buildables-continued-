@@ -1,0 +1,217 @@
+{
+  "Buildables": [
+    {
+      "Key": "ScienceBench1",
+      "Recipes": {
+        "Simple": [
+          { "TechType": "Titanium", "Amount": 2 }
+        ],
+        "Standard": [
+          { "TechType": "Titanium", "Amount": 3 },
+          { "TechType": "Glass", "Amount": 1 }
+        ],
+        "Complex": [
+          { "TechType": "Titanium", "Amount": 4 },
+          { "TechType": "Glass", "Amount": 5 }
+        ]
+      }
+    },
+    {
+      "Key": "ScienceBench2",
+      "Recipes": {
+        "Simple": [
+          { "TechType": "Titanium", "Amount": 2 }
+        ],
+        "Standard": [
+          { "TechType": "Titanium", "Amount": 3 },
+          { "TechType": "Glass", "Amount": 1 }
+        ],
+        "Complex": [
+          { "TechType": "Titanium", "Amount": 4 },
+          { "TechType": "Glass", "Amount": 3 }
+        ]
+      }
+    },
+    {
+      "Key": "LabShelving",
+      "Recipes": {
+        "Simple": [
+          { "TechType": "Titanium", "Amount": 2 },
+          { "TechType": "Glass", "Amount": 1 }
+        ],
+        "Standard": [
+          { "TechType": "Titanium", "Amount": 3 },
+          { "TechType": "Glass", "Amount": 1 },
+          { "TechType": "Computerchip", "Amount": 1 },
+          { "TechType": "Polyaniline", "Amount": 1 },
+          { "TechType": "Benzene", "Amount": 1 },
+          { "TechType": "HydrochloricAcid", "Amount": 1 },
+          { "TechType": "Lubricant", "Amount": 1 },
+          { "TechType": "Bleach", "Amount": 1 }
+        ],
+        "Complex": [
+          { "TechType": "Titanium", "Amount": 8 },
+          { "TechType": "Glass", "Amount": 7 },
+          { "TechType": "Advancedwiringkit", "Amount": 1 },
+          { "TechType": "Polyaniline", "Amount": 1 },
+          { "TechType": "Benzene", "Amount": 3 },
+          { "TechType": "HydrochloricAcid", "Amount": 2 },
+          { "TechType": "Lubricant", "Amount": 3 },
+          { "TechType": "Bleach", "Amount": 3 }
+        ]
+      }
+    },
+    {
+      "Key": "TubularShelfSmall", 
+      "Recipes": {
+        "Simple": [
+          { "TechType": "Titanium", "Amount": 2 },
+          { "TechType": "Glass", "Amount": 2 }
+        ],
+        "Standard": [
+          { "TechType": "Titanium", "Amount": 2 },
+          { "TechType": "Glass", "Amount": 4 }
+        ],
+        "Complex": [
+          { "TechType": "Titanium", "Amount": 2 },
+          { "TechType": "EnameledGlass", "Amount": 2 },
+          { "TechType": "LabEquipment2", "Amount": 1 },
+        ]
+      }
+    },
+    {
+      "Key": "FlowerTerrariumSmall",
+      "Recipes": {
+        "Simple": [
+          { "TechType": "Titanium", "Amount": 2 },
+          { "TechType": "Glass", "Amount": 1 }
+        ],
+        "Standard": [
+          { "TechType": "Titanium", "Amount": 2 },
+          { "TechType": "Glass", "Amount": 2 },
+          { "TechType": "PinkFlowerSeed", "Amount": 1 }
+        ],
+        "Complex": [
+          { "TechType": "Titanium", "Amount": 2 },
+          { "TechType": "Glass", "Amount": 4 },
+          { "TechType": "PinkFlowerSeed", "Amount": 4 }
+        ]
+      }
+    },
+    {
+      "Key": "MushroomTerrariumSmall",
+      "Recipes": {
+        "Simple": [
+          { "TechType": "Titanium", "Amount": 2 },
+          { "TechType": "Glass", "Amount": 1 }
+        ],
+        "Standard": [
+          { "TechType": "Titanium", "Amount": 2 },
+          { "TechType": "Glass", "Amount": 1 },
+          { "TechType": "OrangePetalsPlantSeed", "Amount": 1 },
+          { "TechType": "OrangeMushroomSpore", "Amount": 1 },
+          { "TechType": "PinkMushroomSpore", "Amount": 2 },
+          { "TechType": "PurpleRattleSpore", "Amount": 1 }
+        ],
+        "Complex": [
+          { "TechType": "Titanium", "Amount": 2 },
+          { "TechType": "Glass", "Amount": 1 },
+          { "TechType": "OrangePetalsPlantSeed", "Amount": 4 },
+          { "TechType": "OrangeMushroomSpore", "Amount": 4 },
+          { "TechType": "PinkMushroomSpore", "Amount": 8 },
+          { "TechType": "PurpleRattleSpore", "Amount": 4 }
+        ]
+      }
+    },
+    {
+      "Key": "MushroomTerrariumLarge",
+      "Recipes": {
+        "Simple": [
+          { "TechType": "Titanium", "Amount": 4 },
+          { "TechType": "Glass", "Amount": 2 }
+        ],
+        "Standard": [
+          { "TechType": "Titanium", "Amount": 4 },
+          { "TechType": "Glass", "Amount": 2 },
+          { "TechType": "OrangePetalsPlantSeed", "Amount": 1 },
+          { "TechType": "OrangeMushroomSpore", "Amount": 1 },
+          { "TechType": "PinkMushroomSpore", "Amount": 2 },
+          { "TechType": "PurpleRattleSpore", "Amount": 1 }
+        ],
+        "Complex": [
+          { "TechType": "Titanium", "Amount": 4 },
+          { "TechType": "Glass", "Amount": 2 },
+          { "TechType": "OrangePetalsPlantSeed", "Amount": 4 },
+          { "TechType": "OrangeMushroomSpore", "Amount": 4 },
+          { "TechType": "PinkMushroomSpore", "Amount": 8 },
+          { "TechType": "PurpleRattleSpore", "Amount": 4 }
+        ]
+      }
+    },
+    {
+      "Key": "DegasiPlanter",
+      "Recipes": {
+        "Simple": [
+          { "TechType": "Titanium", "Amount": 4 }
+        ],
+        "Standard": [
+          { "TechType": "Titanium", "Amount": 4 },
+          { "TechType": "HangingFruit", "Amount": 1 }
+        ],
+        "Complex": [
+          { "TechType": "Titanium", "Amount": 4 },
+          { "TechType": "HangingFruit", "Amount": 1 },
+          { "TechType": "FernPalmSeed", "Amount": 2 },
+          { "TechType": "OrangePetalsPlantSeed", "Amount": 1 },
+          { "TechType": "OrangeMushroomSpore", "Amount": 1 },
+          { "TechType": "PinkMushroomSpore", "Amount": 1 },
+          { "TechType": "PurpleRattleSpore", "Amount": 1 },
+          { "TechType": "PinkFlowerSeed", "Amount": 1 }
+        ]
+      }
+    },
+    {
+      "Key": "DegasiPlanter2",
+      "Recipes": {
+        "Simple": [
+          { "TechType": "Titanium", "Amount": 4 }
+        ],
+        "Standard": [
+          { "TechType": "Titanium", "Amount": 4 },
+          { "TechType": "FernPalmSeed", "Amount": 2 }
+        ],
+        "Complex": [
+          { "TechType": "Titanium", "Amount": 4 },
+          { "TechType": "FernPalmSeed", "Amount": 2 },
+          { "TechType": "OrangePetalsPlantSeed", "Amount": 1 },
+          { "TechType": "OrangeMushroomSpore", "Amount": 1 },
+          { "TechType": "PinkMushroomSpore", "Amount": 1 },
+          { "TechType": "PurpleRattleSpore", "Amount": 1 },
+          { "TechType": "PinkFlowerSeed", "Amount": 1 }
+        ]
+      }
+    },
+    {
+      "Key": "DegasiPlanterRound",
+      "Recipes": {
+        "Simple": [
+          { "TechType": "Titanium", "Amount": 4 }
+        ],
+        "Standard": [
+          { "TechType": "Titanium", "Amount": 4 },
+          { "TechType": "HangingFruit", "Amount": 1 }
+        ],
+        "Complex": [
+          { "TechType": "Titanium", "Amount": 4 },
+          { "TechType": "HangingFruit", "Amount": 1 },
+          { "TechType": "FernPalmSeed", "Amount": 2 },
+          { "TechType": "OrangePetalsPlantSeed", "Amount": 1 },
+          { "TechType": "OrangeMushroomSpore", "Amount": 1 },
+          { "TechType": "PinkMushroomSpore", "Amount": 1 },
+          { "TechType": "PurpleRattleSpore", "Amount": 1 },
+          { "TechType": "PinkFlowerSeed", "Amount": 1 }
+        ]
+      }
+    }
+  ]
+}
